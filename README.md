@@ -6,6 +6,7 @@ The programs contained here are designed to help process the output from Stacks 
 Stacks must have already been run for these programs to work. 
 
 Descriptions of the programs:
+
 1. compare_lists
 A C++ program that compares two lists of strings (each in a separate .txt file). This program was developed to compare which reference genome contigs had significantly different SNPs (as determined after running Stacks & Stacks' populations program) in different population comparisons. This requires two *.txt files with lists of strings (each string on a separate line), and produces one .txt file with a list of all of the strings that matched.
 
